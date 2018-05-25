@@ -1,1 +1,3 @@
 Hello Universe
+
+git commit -a -m // stage and commit changes to tracked files

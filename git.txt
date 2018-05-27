@@ -1,3 +1,9 @@
 Hello Universe
 
 git commit -a -m // stage and commit changes to tracked files
+
+git reset HEAD // unstage
+
+git reset --soft HEAD^ // uncommit
+
+it's alive!! :D

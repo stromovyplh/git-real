@@ -4,6 +4,8 @@ git commit -a -m // stage and commit changes to tracked files
 
 git reset HEAD // unstage
 
+git checkout -- file name // erase changes
+
 git reset --soft HEAD^ // uncommit
 
 it's alive!! :D
